@@ -10,5 +10,5 @@ yarn-error.log*
 
 .vscode/*
 # Project exclude paths
-/vite.config.d.ts
-/vite.config.js
+vite.config.d.ts
+vite.config.js
